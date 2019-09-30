@@ -1,0 +1,30 @@
+{
+  "id": "1394899",
+  "name": "移动端拉勾网",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "521966",
+      "name": "搜索",
+      "font_class": "sousuo",
+      "unicode": "e62b",
+      "unicode_decimal": 58923
+    },
+    {
+      "icon_id": "1915213",
+      "name": "首页",
+      "font_class": "icon-test",
+      "unicode": "e607",
+      "unicode_decimal": 58887
+    },
+    {
+      "icon_id": "5439974",
+      "name": "我的",
+      "font_class": "wode",
+      "unicode": "e63a",
+      "unicode_decimal": 58938
+    }
+  ]
+}
